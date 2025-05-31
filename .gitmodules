@@ -1,3 +1,6 @@
 [submodule "myHome-client"]
 	path = myHome-client
 	url = https://github.com/jubayerCodes/myHome-client
+[submodule "myHome-server"]
+	path = myHome-server
+	url = https://github.com/jubayerCodes/myHome-server.git
