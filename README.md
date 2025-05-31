@@ -62,9 +62,9 @@ MyHome is a modern and responsive real estate listing platform built using **Rea
 
 **Jubayer**  
 Frontend Developer | React Enthusiast  
-🌐 [Jubayer Hossain](https://jubayer-hossain-53fbf.web.app/)  
-📫 Email: jubayerhossain111220@gmail.com 
-🐙 GitHub: [@jubayerCodes](https://github.com/jubayerCodes)  
+🌐 [Jubayer Hossain](https://jubayer-hossain-53fbf.web.app/)  <br>
+📫 Email: jubayerhossain111220@gmail.com <br>
+🐙 GitHub: [@jubayerCodes](https://github.com/jubayerCodes)  <br>
 💼 LinkedIn: [Jubayer Hossain](https://www.linkedin.com/in/jubayer-codes/)
 
 ---
