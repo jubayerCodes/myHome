@@ -1,0 +1,3 @@
+[submodule "myHome-client"]
+	path = myHome-client
+	url = https://github.com/jubayerCodes/myHome-client
